@@ -891,16 +891,16 @@ section {
   padding-right: 20px;
 }
 .servicios-en-industrias {
-  background: url("../img/servicios-en-industrias-fondo.png") no-repeat center center;
+  background: url("../img/servicios-en-industrias-fondo.png") center center;
 }
 .servicios-en-obras {
-  background: url("../img/servicios-en-obras-fondo.png") no-repeat center center;
+  background: url("../img/servicios-en-obras-fondo.png") center center;
 }
 .informes-antisiniestrales {
-  background: url("../img/informes-antisiniestrales-fondo.png") no-repeat center center;
+  background: url("../img/informes-antisiniestrales-fondo.png") center center;
 }
 .mediciones-laborales {
-  background: url("../img/mediciones-laborales.png") no-repeat center center;
+  background: url("../img/mediciones-laborales.png") center center;
 }
 @media (min-width: 1920px) {
   .serviciosDetallados__texto {
